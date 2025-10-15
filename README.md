@@ -21,14 +21,10 @@ My achievements include optimizing predictive models and contributing to impactf
 - 💡 [View All Projects](https://github.com/oferekehinde?tab=repositories)  
 
 ---
-
-## 📊 GitHub Stats  
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=oferekehinde&show_icons=true&theme=tokyonight" width="400">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=oferekehinde&layout=compact&theme=tokyonight" width="400">
+  <img src="https://github-readme-stats.vercel.app/api?username=oferekehinde&show_icons=true&theme=tokyonight&hide_border=true" width="400" />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=oferekehinde&layout=compact&theme=tokyonight&hide_border=true" width="400" />
 </p>
-
----
 
 ## 🌱 Currently Learning  
 - Advanced Machine Learning Techniques  
