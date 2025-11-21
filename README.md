@@ -60,22 +60,17 @@ Feel free to explore my repositories and reach out if you have ideas, questions,
 ![Git](https://img.shields.io/badge/Git-F05032?logo=git)
 
 ---
-
-## 📊 GitHub Stats
-
+## Github Stat
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=oferekehinde&show_icons=true&theme=radical" width="400">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=oferekehinde&layout=compact&theme=radical" width="400">
+  <img src="https://github-readme-stats.vercel.app/api?username=kennynifemi&show_icons=true&theme=radical" width="400">
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=kennynifemi&layout=compact&theme=radical" width="400">
 </p>
-
----
 
 ## 📈 Activity Graph
 
 <p align="center">
-  <img src="https://github-readme-activity-graph.vercel.app/graph?username=oferekehinde&theme=react-dark" />
+  <img src="https://github-readme-activity-graph.vercel.app/graph?username=kennynifemi&theme=react-dark" />
 </p>
-
 ---
 
 ## 👀 Profile Views
